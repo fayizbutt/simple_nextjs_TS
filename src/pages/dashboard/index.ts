@@ -8,7 +8,7 @@ export default function Index() {
 
   useEffect(() => {
     if (router.pathname === '/dashboard') {
-      router.push('/dashboard/AddEvent');
+      router.push('/dashboard/VerifiedLocation');
     }
   });
 

@@ -22,8 +22,8 @@ const navConfig = [
   {
     subheader: 'Features',
     items: [
-      { title: 'AddEvent', path: PATH_DASHBOARD.one, icon: ICONS.dashboard },
-      { title: 'Two', path: PATH_DASHBOARD.two, icon: ICONS.ecommerce },
+      { title: 'Verified Location', path: PATH_DASHBOARD.one, icon: ICONS.dashboard },
+      { title: 'Events', path: PATH_DASHBOARD.two, icon: ICONS.ecommerce },
       { title: 'Three', path: PATH_DASHBOARD.three, icon: ICONS.analytics },
     ],
   },
